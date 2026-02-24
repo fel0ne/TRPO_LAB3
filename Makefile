@@ -1,4 +1,6 @@
+
 BLAS_PATH = $(CURDIR)/OpenBLAS-0.3.31
+#BLAS_PATH = $(CURDIR)/OpenBLAS-0.3.31_crushed
 CXX = g++
 CXXFLAGS = -I$(BLAS_PATH)
 LDFLAGS = -L$(BLAS_PATH) -lopenblas

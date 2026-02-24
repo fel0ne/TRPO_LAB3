@@ -1,11 +1,13 @@
 
 OpenBLAS-0.3.31/
+OpenBLAS-0.3.31_crushed/
+
 **/zhemv
 **/chemv
 **/dgemv
 **/sgemv
 **/zgemv
-**/cgemv
+**/сgemv
 **/ssymv
 **/dsymv
 **/zsymv
